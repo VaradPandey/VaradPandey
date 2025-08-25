@@ -11,7 +11,7 @@ HTML · CSS · JavaScript · React.js · Node.js · Express.js · MySQL · Mongo
 
 🎯 Fun Fact: I love writing clean backend logic and connecting it with efficient frontends.
 
-📫 How to reach me: your-email@example.com
+📫 How to reach me: your-varad0404@gmail.com
 
 🧰 Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,cpp,python,git" /> </p>

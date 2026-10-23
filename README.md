@@ -21,7 +21,7 @@ I'm **Varad Pandey**, a developer who loves turning ideas into things that actua
 
 ### Outside of code
 
-When I'm not coding, I'm probably watching anime, hitting the gym, or thinking about something new to build.
+When I'm not coding, I'm probably watching anime/midnight football matches, hitting the gym, or thinking about something new to build.
 
 ### Find me around the internet
 
